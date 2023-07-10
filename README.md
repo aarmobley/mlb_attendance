@@ -1,4 +1,4 @@
-<img src="" width="600"/>
+<img src="https://github.com/aarmobley/mlb_attendance/blob/main/baseball%20field.jpg" width="900" height=400/>
 
 # Hot Bats, Warms Seats...How winning influences attendance in Major League Baseball
 
@@ -11,11 +11,11 @@ and attendnace
 * **Analyzed which stat has the most influence on Attendance numbers
 * **Used wins stat to predict attendnace for the Atlanta Braves
 * * Findings:
-   * Top 3 influences are Wins, Runs Scored, and Slugging Percentage
+   * Top 3 influences for MLB teams are Wins, Runs Scored, and Slugging Percentage
 
    * Wins are responsible for 51% of variance in attendance for the Atlanta Braves
 
-   * 
+   * Prediction for 2023 season attendnace is 3,449,218
 
 
 ## Code and Resources Used 
