@@ -1,3 +1,5 @@
+<img src="" width="600"/>
+
 # Hot Bats, Warms Seats...How winning influences attendance in Major League Baseball
 
 
@@ -7,7 +9,7 @@
 * **Looked at Wins, Runs Scored, Runs Allowed, On Base Percentage, Batting Average, Slugging Percentage <br>
 and attendnace
 * **Analyzed which stat has the most influence on Attendance numbers
-* **Used top influence to predict attendnace for the Atlanta Braves
+* **Used wins stat to predict attendnace for the Atlanta Braves
 * * Findings:
    * Top 3 influences are Wins, Runs Scored, and Slugging Percentage
 
