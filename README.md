@@ -27,6 +27,11 @@ and attendnace
 
 
 ## Data Wrangling
-I combined two datasets. A dataset from Kaggle(Moneynall) and data from [Ballparksofbaseball.com](https://www.ballparksofbaseball.com/baseball-ballpark-attendance/)
-Dropped teams with incomplete data from years 1990-2009
-Renamed columns and values to join datasets
+1. I combined two datasets. A dataset from Kaggle(Moneynall) and data from [Ballparksofbaseball.com](https://www.ballparksofbaseball.com/baseball-ballpark-attendance/)
+2. I changed data from ballparksofbaseball.com to longview in R and changed team names to Abbreviations in Python
+3. Dropped teams with incomplete data from years 1990-2009
+4. Renamed columns and values to join datasets
+
+## Statistical Analysis
+1. **Stepwise Regression** to find baseball stats that influence attendance the most
+2. **Linear Regression model** to perdict attendance based on number of wins
