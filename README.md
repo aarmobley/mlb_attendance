@@ -38,13 +38,17 @@ and attendnace
 2. Attendance for Playoff teams and non playoff teams
 3. Built correlation matrix to see the correlation between variables
    - Slugging and Runs scored had highest correlation
-   - Wins had highest correlation with Attendnace among all stats
+   - Wins had highest correlation with Attendnace among all stats 
 
 
 ## Data Visualization
 1. Used Tableau to see how Wins and Attendance looks among all teams
 
-   <img src="" width="900" height=400/>
+   <img src="https://github.com/aarmobley/mlb_attendance/blob/main/Attendnace%20with%20wins_playoffs.png" width="800" height=400/>
+
+   - Yankees and Braves with the most wins and playoff appearances also in the top 5 in attendance
+   - The darker the blue dots are indicates more playoff appearances 
+     
 
 ## Statistical Analysis
 1. **Stepwise Regression** to find baseball stats that influence attendance the most
