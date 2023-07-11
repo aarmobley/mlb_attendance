@@ -15,7 +15,7 @@ and attendnace
 
    * Wins are responsible for 51% of variance in attendance for the Atlanta Braves
 
-   * Prediction for 2023 season attendnace is 3,449,218
+   * Prediction for 2023 season attendnace for the Braves is 3,449,218
 
 
 ## Code and Resources Used 
@@ -27,11 +27,26 @@ and attendnace
 
 
 ## Data Wrangling
-1. I combined two datasets. A dataset from Kaggle(Moneynall) and data from [Ballparksofbaseball.com](https://www.ballparksofbaseball.com/baseball-ballpark-attendance/)
-2. I changed data from ballparksofbaseball.com to longview in R and changed team names to Abbreviations in Python
-3. Dropped teams with incomplete data from years 1990-2009
-4. Renamed columns and values to join datasets
+1. I combined two datasets. A dataset from Kaggle(Moneyball) and data from [Ballparksofbaseball.com](https://www.ballparksofbaseball.com/baseball-ballpark-attendance/)
+2. I changed data from ballparksofbaseball.com to longview in R and changed team names to abbreviations in Python
+3. Dropped expansion teams with incomplete data from years 1990-2009
+4. Renamed columns and values to merge datasets
+
+
+## Data Exploration
+1. Looked at average of each stat
+2. Attendance for Playoff teams and non playoff teams
+3. Built correlation matrix to see the correlation between variables
+   - Slugging and Runs scored had highest correlation
+   - Wins had highest correlation with Attendnace among all stats
+
+
+## Data Visualization
+1. Used Tableau to see how Wins and Attendance looks among all teams
+
+   <img src="" width="900" height=400/>
 
 ## Statistical Analysis
 1. **Stepwise Regression** to find baseball stats that influence attendance the most
 2. **Linear Regression model** to perdict attendance based on number of wins
+
