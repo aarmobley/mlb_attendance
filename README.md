@@ -10,7 +10,8 @@
 and attendnace
 * **Analyzed which stat has the most influence on Attendance numbers
 * **Used wins stat to predict attendnace for the Atlanta Braves
-* * Findings:
+  
+## Findings:
    * Top 3 influences for MLB teams are Wins, Runs Scored, and Slugging Percentage
 
    * Wins are responsible for 51% of variance in attendance for the Atlanta Braves
