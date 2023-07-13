@@ -58,3 +58,14 @@ and attendnace
    - There was one outlier that was considered significant
    - This was quality data to use for this model
 
+## Linear Regression model conclusion
+1. Wins represent 51% of the variance in annual attendance.
+2. Average attendance from model was 2,740,700 --- Actual average attendance was 2,740,718
+
+
+## Attendance prediction for 2023
+1. Braves are projected to win 110 regular season games
+2. Annual attendance for 2023 will be 3,449,218
+
+
+
