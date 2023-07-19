@@ -54,7 +54,7 @@ and attendnace
 ## Statistical Analysis
 1. **Stepwise Regression** to find baseball stats that influence attendance the most
 2. **Linear Regression model** to perdict attendance based on number of wins
-   - Assuption testing - There is a linear relationship, homoscedasticity, homogeneity of variance, multicolinearity.
+   - Assuption testing - There is a linear relationship, homoscedasticity, homogeneity of variance
    - There was one outlier that was considered significant
    - This was quality data to use for this model
 
