@@ -53,19 +53,21 @@ and attendnace
 
 ## Statistical Analysis
 1. **Stepwise Regression** to find baseball stats that influence attendance the most
-2. **Linear Regression model** to perdict attendance based on number of wins
+2. **Linear Regression model** to perdict attendance based on number of wins for the Atlanta Braves 
    - Assuption testing - There is a linear relationship, homoscedasticity, homogeneity of variance
    - There was one outlier that was considered significant
    - This was quality data to use for this model
 
 ## Linear Regression model conclusion
-1. Wins represent 51% of the variance in annual attendance.
-2. Average attendance from model was 2,740,700 --- Actual average attendance was 2,740,718
+1. Wins represent 51% of the variance in annual attendance for the Atlanta Braves.
+2. Average attendance from model was 2,740,700 --- Actual average attendance was 2,740,718 from the years <br>
+1990 to 2009
 
 
 ## Attendance prediction for 2023
-1. Braves are projected to win 110 regular season games
-2. Annual attendance for 2023 will be 3,449,218
+1. Braves are projected to win 106 regular season games with a current win percentage of .653
+2. Annual attendance for 2023 will be 3,290,298
+3. New rules staritng in 2023 could bring more fans to the ballpark 
 
 
 
